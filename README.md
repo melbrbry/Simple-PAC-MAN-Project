@@ -1,4 +1,4 @@
-# Activity Recognition based on features of objects detected
+# Learning a Simple PAC MAN task
 
 In this project, I develop two main approaches to solve a simple custom (developed from scratch) version of Pac-Man Atari game.
 First, I introduce a linear function approximation based solution with hand-coded features using three different learning algorithms:
